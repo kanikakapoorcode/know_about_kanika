@@ -38,10 +38,10 @@ I am a passionate Computer Science student at Graphic Era Hill University (CSE '
 
 - **Frontend:** React 18, Vite, Material UI v7, Emotion, CSS Modules  
 - **Backend:** Node.js, Express.js, Flask, RESTful APIs  
-- **Databases:** PostgreSQL, MongoDB, Supabase, SQLite  
-- **Dev Tools:** Git, Figma, Canva, JWT, dotenv, Google Maps API, Twilio  
-- **Programming Languages:** JavaScript, TypeScript, Python, C++, C  
-- **Machine Learning & Algorithms:** scikit-learn, SVM, Minimax, Data Structures & Algorithms (250+ LeetCode Qs)  
+- **Databases:** PostgreSQL, MongoDB
+- **Dev Tools:** Git, Figma, Canva, JWT,Google Maps API 
+- **Programming Languages:** JavaScript,JAVA, Python, C++, C  
+- **Machine Learning & Algorithms:** Data Structures & Algorithms (250+ LeetCode Qs)  
 
 ---
 
