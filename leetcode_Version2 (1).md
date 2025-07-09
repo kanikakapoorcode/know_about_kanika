@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 Statistics & Visualizations
-
-![Solved Problems by Difficulty](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Easy','Medium','Hard'],datasets:[{data:[83,150,33],backgroundColor:['#27ae60','#f1c40f','#e74c3c']}]},options:{plugins:{legend:{position:'bottom'}}}})
-
-![Yearly Submission Activity](https://quickchart.io/chart?c={type:'bar',data:{labels:['2021','2022','2023','2024','2025'],datasets:[{label:'Submissions',data:[0,60,120,246,426],backgroundColor:'#2980b9'}]},options:{scales:{y:{beginAtZero:true}}}})
-
----
-
 ## 🧭 Highlights of My Coding Journey
 
 - **Consistency & Growth**
