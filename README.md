@@ -40,7 +40,7 @@ I am a passionate Computer Science student at Graphic Era Hill University (CSE '
 - **Databases:** PostgreSQL, MongoDB
 - **Dev Tools:** Git, Figma, Canva, JWT,Google Maps API 
 - **Programming Languages:** JavaScript,JAVA, Python, C++, C  
-- **Machine Learning & Algorithms:** Data Structures & Algorithms (250+ LeetCode Qs)  
+- **Data Structures and Algorithms:** 250+ LeetCode Qs
 
 ---
 
