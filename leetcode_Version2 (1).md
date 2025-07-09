@@ -37,6 +37,7 @@
 
 - **Language Palette**
   - 💻 **C++**: For performance-critical and standard library-rich solutions.
+  - 💻 **Java**: For android development.
   - 💻 **JavaScript/TypeScript**: For quick prototyping and functional-style approaches.
   - 💻 **Python**: For readability and leveraging built-in data structures.
 
