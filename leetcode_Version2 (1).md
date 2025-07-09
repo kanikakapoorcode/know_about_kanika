@@ -1,6 +1,7 @@
 # 📚 LeetCode Journey – @KanikaKapoor
 
-> "Every solved problem is a small triumph — a poem of logic, a verse of growth." ✨
+> "**Debugging your code is easy. Debugging your mindset is hard.  
+> Keep compiling resilience, and you’ll always run without errors.**"
 
 ---
 
